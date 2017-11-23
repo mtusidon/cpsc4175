@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item>
+    <title>Potato Soup</title>
+    <ingredients>Potatoes, Vegetable Stock</ingredients>
+    <type>Appetizer</type>
+    <price>4.99</price>
+  </item>
+  <item>
+    <title>Steak</title>
+    <ingredients>Beef, Salt, Pepper</ingredients>
+    <type>Entree</type>
+    <price>13.99</price>
+  </item>
+  <item>
+    <title>Salad</title>
+    <ingredients>Lettuce, Tomato, Dressing</ingredients>
+    <type>Appetizer</type>
+    <price>3.99</price>
+  </item>
+  <item>
+    <title>Pizza</title>
+    <ingredients>Wheat, Tomato, Cheese, Pepperoni</ingredients>
+    <type>Entree</type>
+    <price>13.99</price>
+  </item>
+  <item>
+    <title>Tacos</title>
+    <ingredients>Beef, Tomato, Cheese, Salt, Pepper</ingredients>
+    <type>Entree</type>
+    <price>13.99</price>
+  </item>
+  <item>
+    <title>Margarita</title>
+    <ingredients>Tequila, Lime, Orange</ingredients>
+    <type>Drink</type>
+    <price>7.99</price>
+  </item>
+  <item>
+    <title>Cake</title>
+    <ingredients>Chocolate, Flour, Eggs, Sugar, Salt</ingredients>
+    <type>Dessert</type>
+    <price>8.99</price>
+  </item>
+  <item>
+    <title>Chicken Nuggets</title>
+    <ingredients>Chicken, Bread Crumbs</ingredients>
+    <type>Entree</type>
+    <price>6.99</price>
+  </item>
+  <item>
+    <title>Spaghetti</title>
+    <ingredients>Pasta, Tomato, Meatballs</ingredients>
+    <type>Entree</type>
+    <price>9.99</price>
+  </item>
+  <item>
+    <title>Sushi</title>
+    <ingredients>Fish, Rice</ingredients>
+    <type>Entree</type>
+    <price>11.99</price>
+  </item>
+</menu>
